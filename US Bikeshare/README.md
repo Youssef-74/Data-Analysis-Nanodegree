@@ -11,9 +11,11 @@ Randomly selected data for the first six months of 2017 are provided for all thr
 - Start Station (e.g., Broadway & Barry Ave)
 - End Station (e.g., Sedgwick St & North Ave)
 - User Type (Subscriber or Customer)
-- The Chicago and New York City files also have the following two columns:
+
+The Chicago and New York City files also have the following two columns:
 
 - Gender
 - Birth Year
 
+Data for the first 10 rides in the new_york_city.csv file
 ![Data for the first 10 rides in the new_york_city.csv file](https://video.udacity-data.com/topher/2018/March/5aa771dc_nyc-data/nyc-data.png)
