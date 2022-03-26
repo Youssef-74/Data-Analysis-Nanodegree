@@ -3,7 +3,7 @@ Udacity Data Analysis Nanodegree projects
 
 ### Professional Level Projects:
 ------------------------------------
-##### 1- US Bikeshare Data
+##### 1- US Bikeshare Data:
 ##### 2- TMDb Movie Data 
 
 ### Advanced Level Projects:
